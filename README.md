@@ -17,5 +17,5 @@ Discuss the risks and benefits of such a network. (6 marks)
 
 
 ```
-answer here
+The benefits of using online anonimity such as tor are that people such as the government cant track what you are doing online, (you dont need the government to know that you are watching or looking at pornography or medical issues). Another adavantage is that scammers can track your bank details and so they cant take your account and use it. A risk is that lots od dodgy people are on the 'Dark Net' such as peadophiles, perverts and lots of other poeple. A child using the dark net is at risk of getting targeted by peadophiles.
 ```
